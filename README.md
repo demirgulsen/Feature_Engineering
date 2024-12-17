@@ -3,8 +3,8 @@ Bu repo, Miuul Data Scientist Bootcamp kapsamında gerçekleştirilen Feature En
 
 Bu kapsamda:
 
-🕵️‍♀️ Eksik Gözlem Analizi: Eksik veri sorunlarının tespiti ve uygun yöntemlerle işlenmesi,
-📊 Aykırı Değer Analizi: Veri kalitesini artırmak için anormal değerlerin belirlenmesi ve düzeltilmesi,
+- 🕵️‍♀️ Eksik Gözlem Analizi: Eksik veri sorunlarının tespiti ve uygun yöntemlerle işlenmesi,
+- 📊 Aykırı Değer Analizi: Veri kalitesini artırmak için anormal değerlerin belirlenmesi ve düzeltilmesi,
 🔑 Encoding İşlemleri: Kategorik verilerin modele uygun formatlara dönüştürülmesi,
 🤖 Modelleme Çalışmaları: Doğru ve güvenilir sonuçlar üreten modellerin geliştirilmesi ve test edilmesi
 gibi başlıca veri işleme adımları üzerinde çalışılmıştır.
